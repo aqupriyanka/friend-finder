@@ -1,0 +1,36 @@
+.jumbotron{
+	background-image:url("/public/img/bkg.jpg") !important;
+	/*background-color: blue;*/
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bodyClass{
+	background-image:url("/public/img/sommerfugl_alle.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 0px;
+	background-position: 0% 25%;
+	position: absolute;
+	bottom: 0;
+	top: 200px;
+	left: 100px;
+
+}
+
+.surveyBody{
+	background-image:url("/public/img/bkg.jpg") !important;
+	/*background-color: blue;*/
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.surveyHeader{
+	background-image:url("/public/img/banner.jpg") !important;
+	/*background-color: blue;*/
+	background-repeat: no-repeat;
+	/*background-size: cover;*/
+	background-size: auto;
+	background-position: 50%;
+	/*position: absolute;*/
+	/*width: 900px;*/
+}

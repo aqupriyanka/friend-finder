@@ -1,0 +1,27 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Takes a survey and finds a friend for you",
+  "engines": {
+    "node": "6.10.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqupriyanka/friend-finder.git"
+  },
+  "author": "Priyanka Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqupriyanka/friend-finder/issues"
+  },
+  "homepage": "https://github.com/aqupriyanka/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
